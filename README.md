@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://app.zzii.site" target="_blank">
+  <a href="https://diogendev.ru" target="_blank">
     <img src="https://img.shields.io/badge/МОЁ%20РЕЗЮМЕ-B5DB48?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Resume"/>
   </a>
 </div>
